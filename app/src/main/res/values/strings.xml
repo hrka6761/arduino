@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Arduino</string>
+    <string name="main_screen_top_bar_title">Board Controller</string>
+    <string name="led_button_text">LED</string>
 </resources>
